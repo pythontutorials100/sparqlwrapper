@@ -1,28 +1,61 @@
-The Challenge: Disconnected Airfoil Data
+Our Solution: Building the Connection
 
-    Fragmented Information: Critical inspection measurements (scans), repair procedures (FEA simulations/JSON), engineering rules (text), and 3D models exist in separate, isolated files.
+    Developed Ontology-Based Knowledge Graph to define & link components, defects, repairs, rules.
 
-    Manual Data Handling: Engineers spend significant time manually finding, matching, interpreting, and exchanging these disparate data files between PW & AF.
+    Reused REO patterns (Information, Spatial) for enterprise alignment.
 
-    Operational Impact: This manual process leads to:
+    Automatically connected previously siloed data (scans, FEA, rules, model).
 
-        Slowed Decisions: Delays in critical maintenance and repair choices.
+Key Outputs: Integrated Insight
 
-        Increased Risk: Higher potential for errors due to manual interpretation.
+    Enabled SPARQL queries to instantly retrieve integrated defect & repair data.
 
-        Inefficiency: Difficulty achieving a holistic view for streamlined operations.
+    Visualized contextually on 3D model & unified table.
+
+    Provides complete picture for analysis (previously unavailable).
+
+Value & Impact
+
+    Faster, Informed Decisions (Accelerated analysis).
+
+    Improved Accuracy & Consistency (Ontology-linked data).
+
+    Unified, Contextual View (Single source of truth).
+
+    Foundation for Standardization (Machine-readable descriptions).
+
+    Built Internal Capability (Trained 28 PW/AF personnel).
+
+    Validated & Approved for Next Phase (Positive AF feedback).
 
 
-The Challenge: Disconnected Airfoil Data
+---------------
 
-    Scattered Data: Inspection scans, FEA repair data (JSON), rules (text), & 3D models are separate.
 
-    Manual Effort: Time spent manually finding, matching, interpreting, & sharing files (PW <> AF).
+Our Solution: Building the Connection
 
-    Impact:
+    Developed Ontology-Based Knowledge Graph to define & link components, defects, repairs, rules.
 
-        Slows Decisions
+    Reused REO patterns (Information, Spatial) for enterprise alignment.
 
-        Increases Error Risk
+    Automatically connected previously siloed data (scans, FEA, rules, model).
 
-        Prevents Holistic View
+Key Outputs: Integrated Insight for Operators
+
+    Enabled SPARQL queries for instant retrieval of integrated defect & repair data.
+
+    Unified, consumable view via 3D model & data table for direct operator use.
+
+    Delivers the complete picture for analysis & decisions (previously unavailable).
+
+Value & Impact
+
+    Faster, Informed Decisions (Accelerated analysis).
+
+    Improved Accuracy & Consistency (Ontology-linked data).
+
+    Foundation for Standardization (Machine-readable descriptions).
+
+    Transferred Know-How to PW: Trained 28 individuals; shared tutorials, data & use case files for sustained capability.
+
+    Validated & Approved for Next Phase (Positive AF feedback).
