@@ -1,1 +1,28 @@
+The Challenge: Disconnected Airfoil Data
 
+    Fragmented Information: Critical inspection measurements (scans), repair procedures (FEA simulations/JSON), engineering rules (text), and 3D models exist in separate, isolated files.
+
+    Manual Data Handling: Engineers spend significant time manually finding, matching, interpreting, and exchanging these disparate data files between PW & AF.
+
+    Operational Impact: This manual process leads to:
+
+        Slowed Decisions: Delays in critical maintenance and repair choices.
+
+        Increased Risk: Higher potential for errors due to manual interpretation.
+
+        Inefficiency: Difficulty achieving a holistic view for streamlined operations.
+
+
+The Challenge: Disconnected Airfoil Data
+
+    Scattered Data: Inspection scans, FEA repair data (JSON), rules (text), & 3D models are separate.
+
+    Manual Effort: Time spent manually finding, matching, interpreting, & sharing files (PW <> AF).
+
+    Impact:
+
+        Slows Decisions
+
+        Increases Error Risk
+
+        Prevents Holistic View
